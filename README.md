@@ -1,2 +1,2 @@
-# mygit
+# Py Calc
 Py Calc
